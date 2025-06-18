@@ -14,7 +14,6 @@ This project is a deep learning-based image classifier that detects the presence
 | File | Description |
 |------|-------------|
 | `brain_mri_classifier.ipynb` | Full training pipeline using Google Colab |
-| `app.py` | Streamlit script to deploy the trained model |
 | `README.md` | Project overview |
 
 ## 🧠 How It Works
