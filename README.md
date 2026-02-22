@@ -1,4 +1,4 @@
-# 🧠 Brain MRI Tumour Detection
+# 🧠 Brain MRI Tumour Detection - 1st Class Grade Achieved
 
 This project is a deep learning-based image classifier that detects the presence of brain tumours in MRI scans. Built using PyTorch and pretrained ResNet18, it includes a Google Colab notebook for model training and a Streamlit web app for real-time prediction.
 
